@@ -1,0 +1,6 @@
+Nombre,Partidos_Ganados,Partidos_Perdidos,Empates,Goles_aFavor,Goles_enContra
+Equipo1,10,20,14,3,6
+Equipo2,20,10,6,15,4
+Equipo3,15,15,4,15,1
+Equipo4,14,16,2,16,1
+racing,12,23,23,,2
